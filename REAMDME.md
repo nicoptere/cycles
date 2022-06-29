@@ -12,6 +12,6 @@ npm i
 npm run dev
 ```
 
-then go to `http://localhost:1234/` and start rawing something.
+then go to `http://localhost:1234/` and start drawing something.
 
 the _Cycles.js_ code is commented and [this blog post](https://blog.mrpetovan.com/web-development/algorithm-101-finding-all-polygons-in-an-undirected-graph/) explains very well how the algo works(and its limitations).
